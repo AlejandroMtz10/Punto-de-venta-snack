@@ -1,0 +1,66 @@
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe.config
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\Snack.mdf
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\Snack_log.ldf
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.pdb
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.xml
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.vbprojResolveAssemblyReference.cache
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Bitacora.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Login.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Resources.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.vbproj.GenerateResource.Cache
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.exe
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.xml
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.pdb
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.MenuAdmin.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.MenuEstandar.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Bebidas.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Comidas.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Conversion.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.estatusCaja.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Ingredientes.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Inventario.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.RealizarPedido.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Retiros.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.SuministrarInventario.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Usuarios.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Ventas.resources
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe.manifest
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.application
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.exe.manifest
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.application
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackDataSet.Designer.vb
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackDataSet.xsc
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackDataSet.xsd
+D:\Snack - proyect\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackDataSet.xss
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe.config
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.exe
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.xml
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.pdb
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\Snack.mdf
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\Snack_log.ldf
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe.manifest
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.application
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.exe
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.pdb
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\bin\Debug\SnackPuntoVenta.xml
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.vbprojResolveAssemblyReference.cache
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Bebidas.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Bitacora.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Comidas.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Conversion.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.estatusCaja.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Ingredientes.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Inventario.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Login.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.MenuAdmin.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.MenuEstandar.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Resources.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.RealizarPedido.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Retiros.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.SuministrarInventario.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Usuarios.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.Ventas.resources
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.vbproj.GenerateResource.Cache
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.exe.manifest
+D:\Punto-de-venta-snack\Snack\SnackPuntoVenta\SnackPuntoVenta\obj\Debug\SnackPuntoVenta.application

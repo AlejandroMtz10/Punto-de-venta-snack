@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{138DAA45-9F23-40F6-AA6B-7DAB6AEA2507}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SnackPuntoVenta.My.MyApplication</StartupObject>
+    <RootNamespace>SnackPuntoVenta</RootNamespace>
+    <AssemblyName>SnackPuntoVenta</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Snack - proyect\Ejecutable\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SnackPuntoVenta.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SnackPuntoVenta.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>746C901C26D438921A0151C53FE3E4F6641605BF</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SnackPuntoVenta_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bebidas.Designer.vb">
+      <DependentUpon>Bebidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bebidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bitacora.Designer.vb">
+      <DependentUpon>Bitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comidas.Designer.vb">
+      <DependentUpon>Comidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conversion.Designer.vb">
+      <DependentUpon>Conversion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="estatusCaja.Designer.vb">
+      <DependentUpon>estatusCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="estatusCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingredientes.Designer.vb">
+      <DependentUpon>Ingredientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingredientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.vb">
+      <DependentUpon>Inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdmin.Designer.vb">
+      <DependentUpon>MenuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEstandar.Designer.vb">
+      <DependentUpon>MenuEstandar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEstandar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RealizarPedido.Designer.vb">
+      <DependentUpon>RealizarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RealizarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Retiros.Designer.vb">
+      <DependentUpon>Retiros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Retiros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SnackDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SnackDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuministrarInventario.Designer.vb">
+      <DependentUpon>SuministrarInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuministrarInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas.Designer.vb">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bebidas.resx">
+      <DependentUpon>Bebidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bitacora.resx">
+      <DependentUpon>Bitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comidas.resx">
+      <DependentUpon>Comidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conversion.resx">
+      <DependentUpon>Conversion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="estatusCaja.resx">
+      <DependentUpon>estatusCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingredientes.resx">
+      <DependentUpon>Ingredientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdmin.resx">
+      <DependentUpon>MenuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEstandar.resx">
+      <DependentUpon>MenuEstandar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RealizarPedido.resx">
+      <DependentUpon>RealizarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Retiros.resx">
+      <DependentUpon>Retiros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuministrarInventario.resx">
+      <DependentUpon>SuministrarInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SnackDataSet.xsc">
+      <DependentUpon>SnackDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SnackDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SnackDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SnackDataSet.xss">
+      <DependentUpon>SnackDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SnackPuntoVenta_ClaveTemporal.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-dollar-circle-line.png" />
+    <None Include="Resources\Reloj.png" />
+    <None Include="Resources\cubiertos.png" />
+    <None Include="Resources\cheese.png" />
+    <None Include="Resources\chips-bag.png" />
+    <None Include="Resources\bottle-f.png" />
+    <None Include="Resources\ventas2.png" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\Billete.png" />
+    <None Include="Resources\Apagar.png" />
+    <None Include="Resources\NombreLocal.png" />
+    <None Include="Resources\iniciarSesion2.png" />
+    <None Include="Resources\salir2.png" />
+    <None Include="Resources\Salir.png" />
+    <None Include="Resources\IniciarSesion.png" />
+    <None Include="Resources\Logo.png" />
+    <None Include="Resources\user-square.png" />
+    <None Include="Resources\Pesos.png" />
+    <None Include="Resources\metodo-de-pago.png" />
+    <None Include="Resources\Dolares.png" />
+    <None Include="Resources\cambio.png" />
+    <None Include="Resources\ventas.png" />
+    <None Include="Resources\tomate.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\Regresar.png" />
+    <None Include="Resources\Ojo.png" />
+    <None Include="Resources\Ojo bloqueado.png" />
+    <None Include="Resources\math-plus-box.png" />
+    <None Include="Resources\math-minus-box.png" />
+    <None Include="Resources\Jalapeño.png" />
+    <None Include="Resources\Inventario.png" />
+    <None Include="Resources\documento.png" />
+    <None Include="Resources\cebolla.png" />
+    <None Include="Resources\CancelarCompra.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\Sprite.png" />
+    <None Include="Resources\potato-chips.png" />
+    <None Include="Resources\papas-fritas.png" />
+    <None Include="Resources\papas-fritas %281%29.png" />
+    <None Include="Resources\nachos.png" />
+    <None Include="Resources\hot-dog.png" />
+    <None Include="Resources\FritosQueso.png" />
+    <None Include="Resources\Fresca.png" />
+    <None Include="Resources\Fanta-Fresa.png" />
+    <None Include="Resources\Fanta.png" />
+    <None Include="Resources\DrPepper.png" />
+    <None Include="Resources\Coca-Cola-.png" />
+    <None Include="Resources\Agua.png" />
+    <None Include="Resources\Peach_Pie.jpg" />
+    <None Include="Resources\Orange_Coral.jpg" />
+    <None Include="Resources\Messenger.jpg" />
+    <None Include="Resources\Hyper.jpg" />
+    <None Include="Resources\Horizon.jpg" />
+    <None Include="Resources\CoolSunset.jpg" />
+    <None Include="Resources\BlueCoral.jpg" />
+    <None Include="Resources\cancel-line.png" />
+    <None Include="Resources\Guardar.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\arrow-return.png" />
+    <None Include="Resources\agregar.png" />
+    <None Include="Resources\Eliminar.png" />
+    <None Include="Resources\guardar usuario.png" />
+    <None Include="Resources\cancelar usuario.png" />
+    <None Include="Resources\agregar usuario.png" />
+    <None Include="Resources\refresh-ccw.png" />
+    <None Include="Resources\edit-name.png" />
+    <None Include="Resources\Logo.ico" />
+    <Content Include="Snack.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Snack_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>Snack.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
